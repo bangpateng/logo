@@ -10,7 +10,7 @@ clear
 
 # Membuat bingkai atas
 echo ""
-echo -e "${CYAN}╔════════════════════════════════════════════════════════╗${NC}"
+echo -e "${CYAN}╔══════════════════════════════════╗${NC}"
 
 # Menampilkan ASCII Art dengan warna
 echo -e "${BLUE}"
@@ -20,7 +20,7 @@ echo "  ░▀▀░░▀░▀░▀░▀░▀▀▀  ░▀░░░▀░�
 echo -e "${NC}"
 
 # Garis pemisah
-echo -e "${CYAN}╠════════════════════════════════════════════════════════╣${NC}"
+echo -e "${CYAN}╠══════════════════════════════════╣${NC}"
 
 # Informasi kontak
 echo ""
@@ -29,5 +29,5 @@ echo -e "  Website        : https://bangpateng.xyz"
 echo ""
 
 # Bingkai bawah
-echo -e "${CYAN}╚════════════════════════════════════════════════════════╝${NC}"
+echo -e "${CYAN}╚═══════════════════════════════════╝${NC}"
 echo ""
